@@ -1,0 +1,2 @@
+module_header_tags_touch_icon_title = Souhaitez-vous installer le Touch Icon ?
+module_header_tags_touch_icon_description = Touch iconest une fonctionnalité pour les mobiles

@@ -1,0 +1,2 @@
+module_header_tags_touch_icon_title = Do  you want to use the Touch Icon ?
+module_header_tags_touch_icon_description = Touch icon is a functionnalites for mobile device

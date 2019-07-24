@@ -8,7 +8,7 @@
   "version":			1.0,
   "req_core_version":	3.0,
   "license":			"GPL 2 - MIT",
-  "tag":			    "header tag, script, meta tag, frontoffice, apple, icon",
+  "tag":			    "header tag, script, meta tag, frontoffice, apple, icon, touch",
   "install":            "includes/modules/",
   "module_directory":   "header_tags",
   "apps_name":          "",
